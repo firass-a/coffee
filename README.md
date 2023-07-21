@@ -1,6 +1,6 @@
-# coffee
+# coffee-shop-app-concept
 
-A new Flutter project.
+Flutter project about a coffe shop app for android and ios / design inspired from dribble
 
 ## Getting Started
 
